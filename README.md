@@ -42,6 +42,7 @@ I started coding not long ago and I'm already hooked. My goal is to master web d
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlayzeX&show_icons=true&theme=calm&hide_border=true&cache_seconds=0)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlayzeX&layout=compact&theme=calm&hide_border=true&cache_seconds=0)
+
 ---
 
 ## 🌐 Find Me
