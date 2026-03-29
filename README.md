@@ -1,12 +1,14 @@
-# Hey, I'm Ahmed 👋
+# Hey, I'm Ahmed (Blayze) 👋🔥
 
-> 14 y/o developer from Morocco 🇲🇦 — building in public, one project at a time.
+> 14 y/o self-taught developer from Morocco 🇲🇦
+> Building things from scratch — one project at a time.
 
-I started coding not long ago and I'm already hooked. My goal is to master web development, get into a top CS program, and build things that matter.
+I started coding not long ago and I'm already obsessed.
+No bootcamp. No school. Just curiosity, consistency, and a dream. 🚀
 
 ---
 
-## 🛠️ What I Know
+## 🛠️ What I know
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
@@ -20,35 +22,36 @@ I started coding not long ago and I'm already hooked. My goal is to master web d
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| [Task Manager](https://github.com/BlayzeX/task-manager) | Gamified task board with XP & levels | HTML CSS JS |
 | [Calculator](https://github.com/BlayzeX/Calculator) | Clean minimal calculator | HTML CSS JS |
-| Digital Clock | AM/PM clock with Japanese background | HTML CSS JS |
-| Summer Countdown | Countdown timer to summer break | HTML CSS JS |
-| Task Manager | XP-based task board *(in progress)* | HTML CSS JS |
+| Digital Clock | AM/PM clock with Japanese theme | HTML CSS JS |
+| Summer Countdown | Countdown to summer break ⏳ | HTML CSS JS |
 
 ---
 
-## 🎯 Goals
+## 🎯 What I'm chasing
 
-- Master React this summer
-- Build my portfolio site
-- Land my first freelance client on Fiverr
-- Get into Lycée d'Excellence de Benguérir
+- Master React this summer ⚛️
+- Land my first freelance client 💰
+- Build my portfolio site → ahmeddev.com 🌐
+- Get into Lycée d'Excellence de Benguérir 🏫
 - Eventually: CS at Harvard 🎓
 
 ---
 
 ## 📊 GitHub Stats
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlayzeX&show_icons=true&theme=calm&hide_border=true&cache_seconds=0)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlayzeX&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlayzeX&layout=compact&theme=calm&hide_border=true&cache_seconds=0)
-
----
-
-## 🌐 Find Me
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/BlayzeX27)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlayzeX&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-*"Every expert was once a beginner."* 🔥
+## 🌐 Find me
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/BlayzeX)
+
+---
+
+*"Every expert was once a beginner — I'm just getting started."* 🔥
+
