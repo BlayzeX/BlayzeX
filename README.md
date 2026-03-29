@@ -22,10 +22,10 @@ No bootcamp. No school. Just curiosity, consistency, and a dream. 🚀
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [Task Manager](https://github.com/BlayzeX/task-manager) | Gamified task board with XP & levels | HTML CSS JS |
+| [Task Manager](https://github.com/BlayzeX/Task-manager) | Gamified task board with XP & levels | HTML CSS JS |
 | [Calculator](https://github.com/BlayzeX/Calculator) | Clean minimal calculator | HTML CSS JS |
-| Digital Clock | AM/PM clock with Japanese theme | HTML CSS JS |
-| Summer Countdown | Countdown to summer break ⏳ | HTML CSS JS |
+| Digital Clock (https://github.com/BlayzeX/Clock) | AM/PM clock with Japanese theme | HTML CSS JS |
+| Summer Countdown (https://github.com/BlayzeX/Summer-Break-Countdown) | Countdown to summer break ⏳ | HTML CSS JS |
 
 ---
 
