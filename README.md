@@ -47,7 +47,7 @@ I started coding not long ago and I'm already hooked. My goal is to master web d
 
 ## 🌐 Find Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/CoderX2726)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/BlayzeX27)
 
 ---
 
