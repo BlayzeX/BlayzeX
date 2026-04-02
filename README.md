@@ -49,7 +49,7 @@ No bootcamp. No school. Just curiosity, consistency, and a dream. 🚀
 
 ## 🌐 Find me
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/BlayzeX)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/BlayzeX27)
 
 ---
 
