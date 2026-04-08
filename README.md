@@ -1,57 +1,28 @@
-# Hey, I'm Ahmed (Blayze) 👋🔥
+# 💫 About Me:
 
-> 14 y/o self-taught developer from Morocco 🇲🇦
-> Building things from scratch — one project at a time.
+14 y/o self-taught developer from Morocco 🇲🇦<br>Building things from scratch — one project at a time.<br><br>I started coding not long ago and I'm already obsessed.<br>No bootcamp. No school. Just curiosity, consistency, and a dream. 🚀
 
-I started coding not long ago and I'm already obsessed.
-No bootcamp. No school. Just curiosity, consistency, and a dream. 🚀
 
----
+## 🌐 Socials:
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BlayzeX27) 
 
-## 🛠️ What I know
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BlayzeX&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=BlayzeX&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlayzeX&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=BlayzeX&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-**Currently learning:** React ⚛️
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-
-## 🚀 Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [Task Manager](https://github.com/BlayzeX/Task-manager) | Gamified task board with XP & levels | HTML CSS JS |
-| [Calculator](https://github.com/BlayzeX/Calculator) | Clean minimal calculator | HTML CSS JS |
-| [Digital Clock](https://github.com/BlayzeX/Clock) | AM/PM clock with Japanese theme | HTML CSS JS |
-| [Summer Countdown](https://github.com/BlayzeX/Summer-Break-Countdown) | Countdown to summer break ⏳ | HTML CSS JS |
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=BlayzeX&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=BlayzeX&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🎯 What I'm chasing
-
-- Master React this summer ⚛️
-- Land my first freelance client 💰
-- Build my portfolio site → ahmeddev.com 🌐
-- Get into Lycée d'Excellence de Benguérir 🏫
-- Eventually: CS at Harvard 🎓
-
----
-
-## 📊 GitHub Stats
-
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlayzeX&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlayzeX&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🌐 Find me
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/BlayzeX27)
-
----
-
-*"Every expert was once a beginner — I'm just getting started."* 🔥
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
