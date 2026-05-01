@@ -38,11 +38,9 @@ No bootcamp. No school. Just curiosity, consistency, and a dream. 🚀
 ---
 
 ## 📊 GitHub Stats
-
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlayzeX&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlayzeX&layout=compact&theme=tokyonight&hide_border=true)
-
+![](https://github-readme-stats.vercel.app/api?username=BlayzeX&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=BlayzeX&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlayzeX&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 ## 🌐 Find Me
