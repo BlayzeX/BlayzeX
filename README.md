@@ -46,10 +46,10 @@ No bootcamp. No school. Just curiosity, consistency, and a dream. 🚀
 ## 🌐 Find Me
 
 [![Twitter](https://img.shields.io/badge/X-black?style=flat&logo=x&logoColor=white)](https://x.com/BlayzeX27)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/blayzex.dev/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a144c?style=flat&logo=google-chrome&logoColor=white)](https://blayzex.github.io/Ahmed-s-Protofolio)
 
 ---
-
-*"Every expe
+*"Every expert was once a beginner — I'm just getting started."* 🔥
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
